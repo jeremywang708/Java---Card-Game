@@ -1,11 +1,6 @@
 /**
  * This class serves as the parent class.
  * @author Jeremywang
- * @version this is the 11th version
- * @see Player
- * @see Card
- * @see Lab4
- * @since Version 11
  */
 public interface CardTemplate
 {
