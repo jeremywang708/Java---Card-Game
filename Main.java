@@ -1,22 +1,9 @@
-/**
- * File name: Lab4.java
- * Author: Yun Wang, ID# 041069121
- * Course: CST8132 – OOP, Lab Section: 302
- * Lab: 04
- * Date: 2022-11-08
- * Professor: Gustavo Adami
- */
 import java.util.Random;
 import java.util.Scanner;
 import java.util.ArrayList;
 /**
  * This class serves to run the card game
  * @author Jeremywang
- * @version this is the 11th version
- * @see CardTemplate
- * @see Card
- * @see Player
- * @since version 11
  */
 public class Lab4
 {
