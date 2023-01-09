@@ -2,7 +2,7 @@
  * This class serves as the child class.
  * @author Jeremywang
  */
-public class Card implements CardTemplate
+public class CardGame implements CardGameRule
 {
 	/**create an integer variable with value 52, referring to 52 cards in total*/
     int MAX_CARDS = 52;
