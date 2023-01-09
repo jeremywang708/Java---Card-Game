@@ -5,7 +5,7 @@ import java.util.ArrayList;
  * This class serves to run the card game
  * @author Jeremywang
  */
-public class Lab4
+public class Main
 {
     /**Declare that there are 4 players in this card game*/
 	final int MAX_PLAYERS = 4;
