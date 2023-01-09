@@ -3,11 +3,6 @@ import java.util.ArrayList;
 /**
  * This class will hold the cards that this current player will have this game.
  * @author Jeremywang
- * @version this is the 11th version
- * @see CardTemplate
- * @see Card
- * @see Lab4
- * @since Version 11
  */
 public class Player
 {	
