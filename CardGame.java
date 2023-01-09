@@ -1,11 +1,6 @@
 /**
  * This class serves as the child class.
  * @author Jeremywang
- * @version this is the 11th version
- * @see Player
- * @see CardTemplate
- * @see Lab4
- * @since Version 11
  */
 public class Card implements CardTemplate
 {
