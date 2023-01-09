@@ -2,7 +2,7 @@
  * This class serves as the parent class.
  * @author Jeremywang
  */
-public interface CardTemplate
+public interface CardGameRule
 {
     //All values are static, as they won't vary from instance to instance.
     //Why use extra memory when we don't need to?
